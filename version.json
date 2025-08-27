@@ -1,6 +1,6 @@
 {
   "version": "0.12.001",
-  "apk_url": "https://github.com/KELE301/as-bluetooth-apk/blob/main/Tracker0.10.001.apk"
+  "apk_url": "https://github.com/KELE301/as-bluetooth-apk/blob/main/Tracker0.12.001.apk"
   "changelog": [
     "Fixed issue where component parameters could be set to 0",
     "Fixed TCU type selection not being saved",
