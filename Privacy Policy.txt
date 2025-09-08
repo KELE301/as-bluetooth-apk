@@ -1,0 +1,12 @@
+1、What data do you collect (such as location, Bluetooth, camera, account information, etc.)
+    We will collect your location data and Bluetooth data
+
+2、The purpose of the data (e.g. for Bluetooth connected devices, will not be uploaded to the server)
+    Bluetooth is used to connect devices and does not upload to the server
+    Location data is used to obtain device information scanned by Bluetooth
+
+3、Will data be shared with third parties
+    won't
+
+4、How can users contact you (email or company address)
+   email: maqi@zeyang-ai.com
